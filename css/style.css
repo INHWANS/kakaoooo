@@ -3,7 +3,13 @@
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
+<<<<<<< HEAD
+@import "friend.css";
+@import "friends.css";
+@import "find.css";
+=======
 
+>>>>>>> 972ef80793ebdc8ef02ec5a4b2f33ad152283602
 * {
   box-sizing: border-box;
 }
@@ -18,4 +24,8 @@ body {
 
 a {
   color: inherit;
+<<<<<<< HEAD
+  text-decoration: none;
+=======
+>>>>>>> 972ef80793ebdc8ef02ec5a4b2f33ad152283602
 }
